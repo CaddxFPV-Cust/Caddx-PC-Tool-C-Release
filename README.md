@@ -28,7 +28,7 @@ This tool is applicable to the following Caddx Ascent series products:
 
 ## 主要功能 / Features
 
-- 支持 Ascent 系列图传设备和 GM V2 的固件升级  
+- 支持 Ascent 系列图传设备和 GM V2系列的固件升级  
 - 支持识别已连接的图传设备  
 - 支持选择本地固件文件进行升级  
 - 提供升级进度显示  
@@ -36,7 +36,7 @@ This tool is applicable to the following Caddx Ascent series products:
 
 Features:
 
-- Supports firmware upgrade for Ascent series video transmission devices and GM V2 devices  
+- Supports firmware upgrade for Ascent series video transmission devices and GM V2 series devices  
 - Supports detection of connected video transmission devices  
 - Supports selecting local firmware files for upgrade  
 - Provides upgrade progress display  
